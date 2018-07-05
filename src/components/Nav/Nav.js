@@ -8,7 +8,7 @@ const Nav = props => (
         <a href="/clicky-game/">{props.title}</a>
       </li>
 
-      <li id="rw">{props.rightWrong}</li>
+      <li id="feedback">{props.playerFeedback}</li>
 
       <li id="current-score">Current Score: {props.score}</li>
 
