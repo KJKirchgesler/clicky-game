@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/img/abe.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/al-assad.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/ardern.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/kenyatta.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/kim-jong-un.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/may.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/merkel.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/putin.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/trudeau.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/trump.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/xi.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/zuma.jpg",
+      "clicked": false
+    }
+  ]
